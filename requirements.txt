@@ -1,0 +1,26 @@
+# Core packages
+streamlit
+pandas
+numpy
+requests
+python-dotenv
+beautifulsoup4
+
+# Reddit API
+praw
+
+# YouTube API (Google API client)
+google-api-python-client
+
+# News scraping (using NewsAPI or direct scraping)
+newsapi-python
+
+# NLP utilities
+nltk
+scikit-learn
+
+# Data viz (if needed in dashboard)
+plotly
+
+# Optional but helpful
+python-dotenv  # for managing API keys in .env files
