@@ -1,4 +1,4 @@
-from trendmitra.config import NEWS_API_KEY, REDDIT_CLIENT_ID, REDDIT_SECRET, YOUTUBE_API_KEY
+from config import NEWS_API_KEY, REDDIT_CLIENT_ID, REDDIT_SECRET, YOUTUBE_API_KEY
 import requests
 import praw
 
