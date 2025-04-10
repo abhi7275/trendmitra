@@ -41,10 +41,10 @@ pip install -r requirements.txt
 
 # Create your .env file and add the following keys
 # (Replace with your actual keys)
-"NEWS_API_KEY=your_news_key"
-"REDDIT_CLIENT_ID=your_reddit_id"
-"REDDIT_SECRET=your_reddit_secret"
-"YOUTUBE_API_KEY=your_youtube_key"
+1. "NEWS_API_KEY=your_news_key"
+2. "REDDIT_CLIENT_ID=your_reddit_id"
+3. "REDDIT_SECRET=your_reddit_secret"
+4. "YOUTUBE_API_KEY=your_youtube_key"
 
 # Download required NLTK resources
 python backend/download.py
